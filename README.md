@@ -1,5 +1,6 @@
 
 # Specification 'ontologies'
 
-This is the repository for ontologies. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the repository for ontologies. You're welcome to contribute! 
+
+human services ontologies list: https://docs.google.com/spreadsheets/d/1v7AZsFkHrYNStXF7t_fxAmz0PfuDB3JKgQjYQrrwBqk/edit?usp=sharing
