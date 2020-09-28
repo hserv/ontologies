@@ -1,5 +1,5 @@
 
-# Specification 'ontologies'
+# Human Services Ontology Specifications
 
 This is the repository for ontologies. You're welcome to contribute! 
 
